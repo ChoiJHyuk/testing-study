@@ -1,4 +1,4 @@
-package com.rosoa0475.testingstudy;
+package com.rosoa0475.testingstudy.junit;
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 import static org.junit.jupiter.api.Assertions.assertDoesNotThrow;

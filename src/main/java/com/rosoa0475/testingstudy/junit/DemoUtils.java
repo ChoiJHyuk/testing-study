@@ -1,4 +1,4 @@
-package com.rosoa0475.testingstudy;
+package com.rosoa0475.testingstudy.junit;
 
 import java.util.List;
 
