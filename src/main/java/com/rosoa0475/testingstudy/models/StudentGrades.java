@@ -6,7 +6,7 @@ import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.util.List;
 
-@Component
+//@Component
 public class StudentGrades {
 
     List<Double> mathGradeResults;
